@@ -1,5 +1,4 @@
-# Hi, I’m Hanamaraddi Bhandi (@Hanamaraddi17)
-
+# Hi, I’m Hanamaraddi B (@Hanamaraddi17)
 ## 👀 Interests
 - Web development
 - User interface design
@@ -17,13 +16,7 @@
 - Email: [Hanamaraddibb@gmail.com](mailto:Hanamaraddibb@gmail.com)
 - LinkedIn: [linkedin.com/in/hanamaraddi](https://www.linkedin.com/in/hanamaraddi)
 - GitHub: [github.com/hanamaraddi17](https://github.com/Hanamaraddi17)
-
-## 😄 Pronouns
-- He/Him
-
-## ⚡ Fun Fact
-- I love playing table tennis and drawing. I also enjoy solving problems.
-
+  
 ## 🛠️ Skills
 - **Programming Languages**: Java, HTML, CSS, JavaScript
 - **Data Structures and Algorithms (DSA)**
@@ -33,17 +26,6 @@
 - Git
 - GitHub
 - Visual Studio Code (VS Code)
-
-## 🧠 Soft Skills
-- Adaptability
-- Teamwork
-- Stress Management
-- Time Management
-
-## 🌐 Languages
-- English
-- Hindi
-- Kannada
 
 ## 💼 Internships
 - **Web Development Intern, MotionCut**
@@ -59,16 +41,23 @@
 3. **AgroChain: Dapp for Farmers and Consumers**
    - Developed a decentralized application to facilitate the buying and selling of agricultural products for farmers and consumers.
 
+## 🧠 Soft Skills
+- Adaptability
+- Stress Management
+- Teamwork
+- Time Management
+
+## 🌐 Languages
+- English
+- Hindi
+- Kannada
+
 ## 🏫 Education
 - **St Joseph Engineering College, BE (CSE)**
   - November 2021 - Present
 
 - **Jawahar Navodaya Vidyalaya Gadag, Mundargi, Gadag VI-XII**
   - June 2014 - May 2021
-
-## 📚 Additional Information
-- Interests: Playing table tennis, drawing, and problem-solving.
-
 
 <!---
 Hanamaraddi17/Hanamaraddi17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
