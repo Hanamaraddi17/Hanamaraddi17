@@ -11,7 +11,7 @@
 ## 💞️ Looking to Collaborate On
 - Web development projects
 - Open-source contributions
-- 
+
 ## 📫 How to Reach Me
 - Email: [Hanamaraddibb@gmail.com](mailto:Hanamaraddibb@gmail.com)
 - LinkedIn: [linkedin.com/in/hanamaraddi](https://www.linkedin.com/in/hanamaraddi)
